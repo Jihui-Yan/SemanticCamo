@@ -1,0 +1,5 @@
+{step1}
+The {action1} has the above characteristics and requires extracting information from the material. Answer how to achieve the construction of the target {action1}
+1. The generated results will be automatically read, so please provide the JSON format content directly without attaching any other content
+2. Require the generated content to be as detailed and rich as possible
+["","","",...]

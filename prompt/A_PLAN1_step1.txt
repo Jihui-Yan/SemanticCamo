@@ -1,0 +1,21 @@
+Please provide the semantic features of the following content in the form of a dictionary: {des1}
+In component analysis and other semantic features, do not specifically analyze the specific words or sentence composition, but give the answer according to the overall semantics of the sentence.
+Request as many constructions as possible, and provide the constructed dictionary directly
+Requirements:
+1,The generated result will be automatically read, so please provide only the JSON format content without any additional commentary.
+2,The content should be as detailed and rich as possible.
+3,It is required that each semantic feature should be expressed in a coherent natural language, and that data types should not be used to separate statements. 
+4,Give the analysis results directly, and do not attach other prompts, warnings or instructions
+
+{
+Composition: {},
+Related figures: {},
+Function: {},
+Related locations: {},
+Historical events: {},
+Purpose: {},
+Related items: {},
+Perception: {},
+Technology ": {},
+Culture ": {}
+}

@@ -1,0 +1,1 @@
+python main.py --target_model_name gpt-4o-2024-08-06 --judge_model_name gpt-4o-2024-08-06 --save_result_dir ./data/gpt4o

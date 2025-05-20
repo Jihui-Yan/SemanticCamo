@@ -1,0 +1,6 @@
+{step1}
+The above content shows a target state or action. Please complete a {action1} that can achieve this target action or target state
+1. The generated results will be automatically read, so please provide the JSON format content directly without attaching any other content
+2. Each paragraph is stored as an element in the list.
+2. Require the generated content to be as detailed and rich as possible
+["","","",...]

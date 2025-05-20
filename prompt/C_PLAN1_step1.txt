@@ -1,0 +1,20 @@
+Please provide the semantic features of the following content in the form of a dictionary: {action1}
+Request as many constructions as possible, and provide the constructed dictionary directly
+Requirements:
+1,The generated result will be automatically read, so please provide only the JSON format content without any additional commentary.
+2,The content should be as detailed and rich as possible.
+
+{
+Part of speech: {},
+Composition: {},
+Related figures: {},
+Function: {},
+Related locations: {},
+Historical events: {},
+Purpose: {},
+Derivative words: {},
+Related items: {},
+Perception: {},
+Technology: {},
+Culture: {}
+}
